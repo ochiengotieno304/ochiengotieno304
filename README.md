@@ -6,10 +6,10 @@
   <br>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=ochiengotieno304&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=ochiengotieno304&repo=pixel-weather">
-</p> -->
+</p>
 
 
 <!--
