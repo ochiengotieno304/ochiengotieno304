@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=ochiengotieno304&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=ochiengotieno304&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=ochiengotieno304&repo=streamsb-ruby">
 </p>
 
 
